@@ -1,0 +1,21 @@
+Follow this youtube
+https://www.youtube.com/watch?v=Ezkv_FMqvAk&list=PLjPfp4Ph3gBrHdPvNKLYVqhSnNAoNkTUO&index=14
+
+# Please install these:
+- homebrew
+- nodejs
+- openjdk
+- android studio
+- android emulator
+- xcode
+- cocoapod 
+
+# command mentioned in youtube
+npx react-native init demo3
+npx react-native run-android
+cd ios
+sudo arch -x86_64 gem install ffi
+arch -x86_64 pod install
+
+#more info
+www.codemobiles.com
