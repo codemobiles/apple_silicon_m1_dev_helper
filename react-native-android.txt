@@ -1,0 +1,17 @@
+Follow this youtube
+https://www.youtube.com/watch?v=Ezkv_FMqvAk&list=PLjPfp4Ph3gBrHdPvNKLYVqhSnNAoNkTUO&index=14
+
+- homebrew
+- nodejs
+- openjdk
+- android studio
+- android emulator
+- xcode
+- cocoapod 
+
+npx react-native init demo3
+npx react-native run-android
+echo "sdk.dir=/Users/xxxxxx/Library/Android/sdk" > /Users/xxxxxx/Desktop/tmp/demo3/android/local.properties
+vi ~/.zshrc  
+
+more info : www.codemobiles.com
