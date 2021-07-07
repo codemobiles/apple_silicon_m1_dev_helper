@@ -16,6 +16,9 @@ npx react-native init demo4
 npx react-native run-ios
 cd ios
 
+# Enable Rosetta mode to Xcode
+Open Xcode through Rosetta - Right click on Xcode in applications folder -> Get Info -> set Open with Rosetta to true
+
 sudo ln -s $(which node) /usr/local/bin/node
 sudo arch -x86_64 gem install ffi
 arch -x86_64 pod install
